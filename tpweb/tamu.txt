@@ -1,0 +1,6 @@
+Aulia Aditama|1999-12-20|Laki-Laki|Jl.Wonocatur Banguntapan,Yogyakarta|Islam
+Ragil Febriansyah|2000-02-23|Laki-Laki|Jl.Glagah Sari Yogyakarta|Islam
+Naufal Nur|1999-10-10|Laki-Laki|Jl.Glagah Sari, Yogyakarta|Islam
+Aditya Milendra|1999-03-10|Laki-Laki|Jl.Parangtritis,Bantul,yogyakarta|Budha
+Ridhan Aufa Mahfud|1998-07-03|Laki-Laki|Jl.Ringroad Selatan,Yogyakarta|Islam
+burhan|2000-06-19|Laki-Laki|Jl. Kebrokan ,Yogyakarta|Islam
